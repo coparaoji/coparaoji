@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chibuikem Oparaoji but you can call me Kem.
+- 👋 Hi, I’m Chibuikem Alexander Oparaoji but you can call me Alex.
 - 👀 I’m interested in Machine Learning in Sports, Blockchain technology, and IOT innovations.
 - 🌱 I’m currently learning Machine Learning on the Google Cloud platform through Coursera. As well as polishing my SQL, Python, and Tableau expertise.
 - 💞️ I’m looking to collaborate on an Open CV project or data science related project.
