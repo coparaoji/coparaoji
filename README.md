@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chibuikem Alexander Oparaoji but you can call me Alex.
 - 👀 I’m interested in Machine Learning in Sports, consumer technology innovations and EV conversions.
-- 🌱 I’m currently learning MLOPS at <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank" rel="noopener noreferrer">Zoomcamp<a>. I'm also learning probalistic programming to work on a project that uses NCAA Men's basketball data.
+- 🌱 I’m currently learning MLOPS at <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank" rel="noopener noreferrer">Zoomcamp<a>. I'm also learning probabilistic programming to work on a project that uses NCAA Men's basketball data.
 - 💞️ I’m looking for full-time oppurtunities in software development or software testing.
 - 📫 Email: coparaoji@gmail.com
 - <a href="https://www.linkedin.com/in/chibuikem-oparaoji/" target="_blank" rel="noopener noreferrer">LinkedIn<a>
