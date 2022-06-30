@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a new grad looking to improve my professional career as a software developer.
+I am a new grad looking to improve my professional career as a software developer
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chibuikem-oparaoji/) 
