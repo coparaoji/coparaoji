@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me
 Hello, I'm Alex Oparaoji, a passionate Software Engineer with a strong background in Applied Mathematics. With my expertise in Python, Java, SQL, and Bash, I enjoy solving complex problems and developing innovative solutions. My experience spans working with machine learning models, automation scripts, conducting code reviews, and troubleshooting in a Kubernetes environment. Currently, I'm exploring opportunities in AI and DevOps fields where I can leverage my programming and analytical skills. In my free time, I love to undertake challenging projects that enhance my learning and help me stay abreast with the latest in the tech world. I firmly believe in the power of technology to positively impact the world, and I'm always eager to contribute to open-source projects that align with this belief.
 
 ## 🌐Socials
