@@ -1,4 +1,3 @@
-Preparing for the MCAT, especially for the physics sections on fluids and circuits, involves a combination of conceptual understanding, problem-solving skills, and practice. Here are some key topics and resources to review for each area:
 
 ### Fluids
 1. **Basic Concepts:**
@@ -73,7 +72,7 @@ Preparing for the MCAT, especially for the physics sections on fluids and circui
 By focusing on these areas and utilizing these resources, you'll be well-prepared to tackle the fluids and circuits questions on the MCAT.
 
 
-Understanding the conceptual topics for fluids is crucial for mastering the physics portion of the MCAT. Here are the key concepts and an example MCAT question to illustrate them:
+Here are the key concepts and an example MCAT question to illustrate them:
 
 ### Key Conceptual Topics for Fluids
 
